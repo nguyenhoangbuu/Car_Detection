@@ -7,3 +7,4 @@ Tập dữ liệu có thể tải về miễn phí từ trang web Kaggle https:/
 ## Model
 Sử dụng mô hình YOLO cùng các thư viện thông dụng như: cv2, shutil, torch, IPython...
 ## Output example
+![](https://github.com/nguyenhoangbuu/Car_Detection/blob/main/output.png)
